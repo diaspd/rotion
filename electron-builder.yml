@@ -1,4 +1,4 @@
-appId: com.pedrodias.app
+appId: com.pedrodias.rotion
 productName: Rotion
 directories:
   buildResources: build
@@ -35,6 +35,7 @@ linux:
     - pacman
     - freebsd
   synopsis: ${description}
+  maintainer: pedro_dias
   category: Utility
 appImage:
   artifactName: ${name}-${version}.${ext}
