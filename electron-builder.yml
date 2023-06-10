@@ -34,7 +34,6 @@ linux:
     - rpm
     - pacman
     - freebsd
-  maintainer: https://github.com/diaspd
   synopsis: ${description}
   category: Utility
 appImage:
