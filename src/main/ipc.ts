@@ -1,6 +1,6 @@
 import { ipcMain } from 'electron'
 import { randomUUID } from 'node:crypto'
-import { IPC } from '../shared/constants/ipc'
+import { IPC } from '@shared/constants/ipc'
 import {
   CreateDocumentResponse,
   FetchAllDocumentsResponse,
@@ -9,7 +9,7 @@ import {
   SaveDocumentRequest,
   DeleteDocumentRequest,
   Document,
-} from '../shared/types/ipc'
+} from '@shared/types/ipc'
 import { store } from './store'
 
 ipcMain.handle(
