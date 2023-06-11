@@ -62,7 +62,7 @@ This project was developed with the following technologies:
 <br></br>
 
 ## 🔖 Layout
-- [Ignite Call - Figma]()
+- [Rotion - Figma](https://www.figma.com/file/oDWCeuEWPkoSJytDBuTax5/Rotion-(Curso-de-Electron)?type=design&node-id=202-158&t=vW09l5F51Nm8uokw-0)
 
 <br></br>
 
