@@ -1,5 +1,5 @@
 <h1 align="center">
-
+  <img alt="project icon" title="icon" src="./resources/icon.png" height="100rem"  />
 </h1> 
 
 <h2 align="center">Link to download: <a href="" target="_blank">Rotion</a> </h2>
