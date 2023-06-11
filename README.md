@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-  <img alt="project img" title="image" src="./resources/template.svg" width="100%"/>
+  <img alt="project img" title="project image" src="./resources/template.svg" width="100%"/>
 </div> 
 
 </br>
