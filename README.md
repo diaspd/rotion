@@ -25,7 +25,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone 
+$ git clone https://github.com/diaspd/rotion.git
 $ cd 
 ```
 
