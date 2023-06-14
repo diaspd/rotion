@@ -54,6 +54,7 @@ This project was developed with the following technologies:
   Electron
   Type Script
   Vite
+  Tailwind
 </b>
 
 </br>
