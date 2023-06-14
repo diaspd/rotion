@@ -53,6 +53,7 @@ This project was developed with the following technologies:
 <b>
   Electron
   Type Script
+  Vite
 </b>
 
 </br>
