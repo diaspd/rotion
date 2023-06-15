@@ -60,7 +60,7 @@ This project was developed with the following technologies:
 </br>
 
 ## 📄 Project
-💰 A based on notion project, using the best concepts of electron.
+💰 A based on Notion project, using the best concepts of electron.
 
 <br></br>
 
