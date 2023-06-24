@@ -55,7 +55,6 @@ This project was developed with the following technologies:
 - Type Script
 - Vite
 - Tailwind
-  
 </b>
 
 </br>
