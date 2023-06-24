@@ -51,10 +51,12 @@ The app will be available on `http://localhost:5173/`
 
 This project was developed with the following technologies:
 <b>
+
   Electron
   Type Script
   Vite
   Tailwind
+  
 </b>
 
 </br>
