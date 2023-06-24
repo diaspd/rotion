@@ -43,7 +43,7 @@ $ npm run dev
 
 </br>
 
-The app will be available on `http://localhost:5173/`
+The app will be available on `http://localhost:5173`
 
 <br></br>
 
