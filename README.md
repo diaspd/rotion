@@ -19,7 +19,7 @@
 </div> 
 
 <div align="center">
-  <img alt="project img" title="project image" src="./resources/template.gif" width="100%"/>
+  <img alt="project gif" title="project image" src="./resources/template.gif" width="100%"/>
 </div> 
 
 </br>
